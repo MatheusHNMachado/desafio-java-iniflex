@@ -18,7 +18,7 @@ Projeto desenvolvido em Java com foco em manipulação e análise de dados.
 
 💻 Tecnologias
 
-Java
+-Java
 -Paradigma Orientado a Objetos
 
 🎯 Objetivo
