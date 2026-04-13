@@ -1,31 +1,20 @@
-# Desafio Java - Iniflex
+Sistema de Gestão de Funcionários
 
-Projeto desenvolvido como teste prático para vaga de programação.
+Projeto desenvolvido em Java com foco em manipulação e análise de dados.
 
-📌 Funcionalidades
+🚀 Funcionalidades
+Cadastro e organização de funcionários
+Cálculo de salários e aplicação de aumentos
+Identificação de funcionários por critérios específicos
+Geração de relatórios com base nos dados
+🧠 Conceitos aplicados
+Estruturas de repetição (for, streams)
+Estruturas condicionais
+Manipulação de listas e objetos
+Lógica de programação aplicada a dados
+💻 Tecnologias
+Java
+Paradigma Orientado a Objetos
+🎯 Objetivo
 
-- Cadastro de funcionários com nome, data de nascimento, salário e função
-- Remoção de funcionário da lista
-- Impressão formatada (data no formato dd/MM/yyyy e valores no padrão brasileiro)
-- Aplicação de aumento salarial de 10%
-- Agrupamento de funcionários por função utilizando Map
-- Identificação de aniversariantes (outubro e dezembro)
-- Identificação do funcionário mais velho
-- Ordenação alfabética dos funcionários
-- Cálculo do total de salários
-- Cálculo de salários mínimos por funcionário
-
-🛠 Tecnologias utilizadas
-
-- Java
-- BigDecimal (precisão em cálculos financeiros)
-- Collections (List, Map)
-- LocalDate (datas)
-
-▶️ Como executar
-
-Executar a classe `Principal.java`
-
-## 👨‍💻 Autor
-
-Matheus Henrique Nunes Machado
+Praticar lógica de programação e manipulação de dados, simulando um cenário real de negócio.
